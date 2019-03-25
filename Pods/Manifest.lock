@@ -1,0 +1,20 @@
+PODS:
+  - Pulley (2.6.3)
+  - SnapKit (4.2.0)
+
+DEPENDENCIES:
+  - Pulley
+  - SnapKit
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Pulley
+    - SnapKit
+
+SPEC CHECKSUMS:
+  Pulley: af7d2347deadc38ef78406579995568f2d6ee158
+  SnapKit: fe8a619752f3f27075cc9a90244d75c6c3f27e2a
+
+PODFILE CHECKSUM: c782b9d4078f79996d866ff21573a5e67c3e7714
+
+COCOAPODS: 1.6.1
